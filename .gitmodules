@@ -1,0 +1,3 @@
+[submodule "stakefi"]
+	path = stakefi
+	url = https://github.com/reiver/reiver-social-systems-stakefi
